@@ -20,4 +20,4 @@ Weekly graded assignments (`Saturday-Sanjana-Assignment *.xlsx`, `EXCEL SKRM/`),
 
 ## Tools
 
-Microsoft Excel — pivot tables, PivotCharts, slicers, VLOOKUP/formulas, text-to-columns, conditional formatting.
+Microsoft Excel: pivot tables, PivotCharts, slicers, VLOOKUP/formulas, text-to-columns, conditional formatting.
