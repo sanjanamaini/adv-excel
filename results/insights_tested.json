@@ -1,0 +1,68 @@
+{
+ "students": 70,
+ "academic_years": [
+  "2024-2025"
+ ],
+ "insight1": {
+  "means": {
+   "BBA": 79.91,
+   "BCOM": 78.35,
+   "MBA": 81.29
+  },
+  "spread": 2.939560439560452,
+  "perm_p": 0.4301
+ },
+ "insight2": {
+  "means": {
+   "Mr. Iyer": 8.18,
+   "Mr. Nair": 8.7,
+   "Mr. Sharma": 7.43,
+   "Mrs. Verma": 8.3,
+   "Ms. Patel": 7.89
+  },
+  "spread": 1.2714285714285705,
+  "perm_p": 0.1428
+ },
+ "insight3": {
+  "counts": {
+   "F": 5,
+   "M": 5
+  },
+  "n": {
+   "F": 39,
+   "M": 31
+  },
+  "rates": {
+   "F": 0.1282,
+   "M": 0.1613
+  },
+  "fisher_p": 0.7412219260723533
+ },
+ "insight4": {
+  "placed": {
+   "BBA": 8,
+   "BCOM": 15,
+   "MBA": 8
+  },
+  "n": {
+   "BBA": 23,
+   "BCOM": 26,
+   "MBA": 21
+  },
+  "rate": {
+   "BBA": 0.3478,
+   "BCOM": 0.5769,
+   "MBA": 0.381
+  },
+  "chi2_p": 0.21631887345536324
+ },
+ "insight5": {
+  "accounting_n": 3,
+  "courses": 11,
+  "median_course_size": 6.0
+ },
+ "attendance_marks_r": -0.01763335441194268,
+ "attendance_marks_p": 0.8848008374395866,
+ "sd_total_marks": 8.006674234545617,
+ "n_per_group_for_3_marks": 111.81484819070228
+}
