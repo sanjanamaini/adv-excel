@@ -2,6 +2,15 @@
 
 A structured Advanced Excel course (July to November 2025): weekly assignments, pivot tables, charts, slicers, text-to-columns, and a final comprehensive assignment covering 17 topics, culminating in a KPI dashboard capstone.
 
+**At a glance**
+
+| | |
+|---|---|
+| **Question** | Do the five written insights of a student-performance dashboard survive a statistics test? |
+| **Data** | 70 students |
+| **Result** | Built the dashboard as an Advanced Excel capstone, then tested its insights with permutation tests: none held at 70 students, and about 112 per group would be needed to detect a 3-mark gap |
+| **Stack** | Excel (pivot tables, charts, slicers), Python for the tests |
+
 ## Capstone: Student Performance Dashboard
 
 **`StudentPerformanceDashboard_Sanjana_Maini.xlsx`**: the flagship piece. Built from a 70-student dataset (`Data` sheet), with:
